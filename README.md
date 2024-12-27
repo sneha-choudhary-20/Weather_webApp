@@ -1,6 +1,6 @@
 # Weather_webApp
 
-### This web project is done in html,css ,js
+### This web project is done in html, css ,js
 
 #### netlify link
  
